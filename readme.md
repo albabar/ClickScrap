@@ -1,5 +1,5 @@
-# Simple Scraping tool to scrap ClickBD.com
-Made of Ruby. It a small utility tool to scrap ClickBD mail listing page.
+# ClickScrap: Simple Scraping tool to scrap ClickBD.com
+Made of Ruby. It's a small utility tool to scrap ClickBD main listing page.
 
 ### Dependencies
 * Nokogiri
